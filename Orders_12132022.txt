@@ -1,0 +1,2 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,Kalyango Bosco,Ky,6.00,carpet,1000,2.25,2.10,2250.00,2100.00,261.0000,4611.0000

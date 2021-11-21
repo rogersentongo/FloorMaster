@@ -1,0 +1,8 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,David,NY,2.5,Carpet,1000,10,10,10000,10000,500.000,20500.000
+2,Galiwango,MN,2.5,Tile,100,10,10,1000,1000,50.000,2050.000
+3,Galiwango,MN,2.5,Tile,100,10,10,1000,1000,50.000,2050.000
+4,Galiwango,MN,2.5,Tile,100,10,10,1000,1000,50.000,2050.000
+5,David,NY,2.5,Carpet,1000,10,10,10000,10000,500.000,20500.000
+6,Galiwango,MN,2.5,Tile,100,10,10,1000,1000,50.000,2050.000
+7,Galiwango,MN,2.5,Tile,100,10,10,1000,1000,50.000,2050.000

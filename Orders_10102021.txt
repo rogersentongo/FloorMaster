@@ -1,0 +1,5 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+6,Kalyango Jackson ,TX,4.45,Tile,1000,3.50,4.15,3500.00,4150.00,340.425000,7990.425000
+7,Kalibo Dombolo,TX,4.45,Tile,1000,3.50,4.15,3500.00,4150.00,340.425000,7990.425000
+9,William Henry,CA,25.00,Tile,1000,3.50,4.15,3500.00,4150.00,1912.5000,9562.5000
+10,Willburton Kalyango,CA,25.00,Carpet,1000000,2.25,2.10,2250000.00,2100000.00,1087500.0000,5437500.0000

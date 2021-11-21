@@ -1,0 +1,4 @@
+OrderNumber,CustomerName,State,TaxRate,ProductType,Area,CostPerSquareFoot,LaborCostPerSquareFoot,MaterialCost,LaborCost,Tax,Total
+1,,TX,4.45,Wood,200,2.25,2.10,450.00,420.00,38.715000,908.715000
+3,Xero,CA,25.00,Carpet,500,2.25,2.10,1125.00,1050.00,543.7500,2718.7500
+4,Myself,CA,25.00,Wood,100,5.15,4.75,515.00,475.00,247.5000,1237.5000
